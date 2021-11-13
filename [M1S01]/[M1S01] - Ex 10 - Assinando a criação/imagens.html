@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DEVinHouse</title>
+
+    <link
+      rel="shortcut icon"
+      href="https://cdn.icon-icons.com/icons2/1959/PNG/256/17_122771.png"
+      type="image/x-icon"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <style>
+      #bloco-imgs {
+        max-width: 100%;
+        display: flex;
+        margin-top: 100px;
+        margin-bottom: 277px;
+      }
+
+      #bloco-imgs img {
+        width: calc(100% / 3);
+        padding: 0;
+      }
+
+      #rodape {
+        background-color: rgb(40, 82, 40);
+        color: yellowgreen;
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+        padding: 10px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+      }
+
+      #rodape p {
+        flex-direction: row;
+        padding: 0 20px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <nav id="navbar">
+      <div>
+        <img
+          src="imgs/img-logo-botom.jpg"
+          id="img-logo"
+          alt="imagem-folha-logo"
+        />
+      </div>
+
+      <div>
+        <a href="#conteudo">Home</a>
+        <a href="../[M1S01] - Ex 8 - Navegar é preciso/imagens.html">Imagens</a>
+      </div>
+    </nav>
+
+    <div id="bloco-imgs">
+      <img src="natureza01.jpg" alt="natureza-01" />
+
+      <img src="imgs/natureza02.jpg" alt="natureza-02" />
+
+      <img
+        src="https://www.diariodasaude.com.br/news/imgs/010130171208-o-que-significa-natureza.jpg"
+        alt="natureza-03"
+      />
+    </div>
+
+    <footer id="rodape">
+      <p>&copy 2021</p>
+      <p>Camila Kunitz</p>
+      <p>Super fã de Front-end</p>
+    </footer>
+  </body>
+</html>
