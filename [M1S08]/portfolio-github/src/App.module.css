@@ -1,0 +1,14 @@
+.app__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  padding: 20px;
+  background: rgb(219, 216, 216);
+}
+
+.app__titulo {
+  padding-bottom: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: underline;
+}
