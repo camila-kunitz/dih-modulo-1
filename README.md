@@ -10,3 +10,4 @@ Primeiro módulo do DEVinHouse - 4° Edição - 2021.
 - [Módulo 1 - Semana 7 - Exercícios](/[M1S07])
 - [Módulo 1 - Semana 8 - Exercícios](/[M1S08])
 - [Módulo 1 - Semana 9 - Exercícios](/[M1S09])
+- [Módulo 1 - Semana 10 - Exercícios](/[M1S10])
