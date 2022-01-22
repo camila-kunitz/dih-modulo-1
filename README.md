@@ -1,4 +1,4 @@
-# dih-modulo-1
+# DevInHouse - Módulo 01 - Exercícios
 
 Primeiro módulo do DEVinHouse - 4° Edição - 2021.
 
