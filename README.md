@@ -1,6 +1,6 @@
-# dih-modulo-1
+# DevInHouse - Módulo 01 - Exercícios
 
-Primeiro módulo do DEVinHouse - 4° Edição - 2021.
+Módulo 01 - Front-end com React - DevInHouse - 4° Edição.
 
 - [Módulo 1 - Semana 1 - Exercícios](/[M1S01])
 - [Módulo 1 - Semana 2 - Exercícios](/[M1S02])
@@ -11,3 +11,4 @@ Primeiro módulo do DEVinHouse - 4° Edição - 2021.
 - [Módulo 1 - Semana 8 - Exercícios](/[M1S08])
 - [Módulo 1 - Semana 9 - Exercícios](/[M1S09])
 - [Módulo 1 - Semana 10 - Exercícios](/[M1S10])
+- [Módulo 1 - Semana 11 - Exercícios](/[M1S11])
