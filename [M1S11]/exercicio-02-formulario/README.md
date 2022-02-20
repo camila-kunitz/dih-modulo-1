@@ -4,6 +4,8 @@
 
 ![Formulario](documentacao/formulario.gif)
 
+<hr/>
+
 ## Exercício
 
 ### Parte 1
